@@ -1,7 +1,7 @@
 @charset "UTF-8"; 
 
 body{
-	background: #191919;
+	background: #101010;
   color: #eee;
 	font-family:"Exo 2", "Helvetica Neue",Helvetica,Arial,sans-serif;
 	font-size: 16px;
@@ -46,7 +46,7 @@ canvas {
 
 
 nav {
-  background: #b63258;
+  background: #000000;
   color: #fff;
   display: flex;
   white-space: nowrap;
@@ -114,7 +114,7 @@ nav form {
 }
 /*fix placeholder color for chrome*/
 form input[type="text"]::-webkit-input-placeholder {
-  color: #c89eaa;
+  color: #ffffff;
 }
 form input[type="text"] {
   height: 36px;
@@ -960,7 +960,7 @@ progress.finished::-webkit-progress-value{background:#6cf;}
   width: 40px;
 }
 input {
-  background: #892e48;
+  background: #505050;
   color: #fff;
   border: none;
 }
